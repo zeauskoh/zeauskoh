@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @zeauskoh
-- 👀 I’m interested in building machines, marine biology and biodiversity, and engaging in debates over anything I find interesting
-- 🌱 I’m currently learning HTML, CSS and JS to build my own website
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me: email me at zeauskohjr@gmail.com
+- 👟 I did competitive swimming 🏊🏻‍♂️, water polo 🤽🏻‍♂️ and now I'm a competitive sailing athlete ⛵️
+- 👀 I’m working on side projects: building a robot, AI chatbot, marine biodiversity and a new kind of social media
+- 🌱 Learnt basic HTML, CSS and vanilla JS to build my own website
+- 🧠 Now learning JS frameworks (Vue.js and React), Python, Ruby, PHP and SQL
+- 📫 Pls don't contact me: zeauskohjr@gmail.com
 
 <!---
 zeauskoh/zeauskoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
